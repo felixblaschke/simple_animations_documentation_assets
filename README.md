@@ -1,0 +1,2 @@
+# simple_animations_documentation_assets
+Assets for the documentation of simple_animations
